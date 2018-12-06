@@ -1,4 +1,4 @@
-# React Workout Log
+# Workout Tracker
 
 A simple workout log to keep track of your progress! It uses React, React-Router and Firebase.
 
